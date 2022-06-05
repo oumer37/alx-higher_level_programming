@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-oumer = input("numbers: ")
-my_list = [oumer]
-for i in my_list:
-  print(" {} ".format(my_list))     
+def print_list_integer(my_list=[]):
+  get_numbers = input("numbers: ")
+  for i in get_numbers:
+    print(get_numbers .format())
+print_list_integer(my_list=[])
