@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+oumer = input("numbers: ")
+my_list = [oumer]
+for i in my_list:
+  print(my_list)     
